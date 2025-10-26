@@ -1,3 +1,4 @@
+```md
 data/synthetic_generator.py
 src/train/train.py
 src/train/register.py
@@ -8,3 +9,4 @@ configs/params.yaml
 infra/README.md       # IaC pointers only; no secrets
 model-card.md
 .github/workflows/ci.yml
+```
